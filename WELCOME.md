@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ming
 - 👀 My twitter: @tuongcuaming
-- 🌱 My Insstagram: @nguyenhuuquangminh
+- 🌱 My Instagram: @nguyenhuuquangminh
 - 💞️ I'm a Blockchain Research
 - 📫 On the way to learn Solidity, Smart contract,...
 
